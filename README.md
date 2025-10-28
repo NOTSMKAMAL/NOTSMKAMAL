@@ -16,13 +16,7 @@
         height="150"
       />
     </td>
-    <td>
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=NOTSMKAMAL&theme=transparent"
-        alt="GitHub streak"
-        height="150"
-      />
-    </td>
+  
   </tr>
 </table>
 
