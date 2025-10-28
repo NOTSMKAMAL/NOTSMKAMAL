@@ -4,6 +4,34 @@
 # Hi, I'm SM 
 
 </div>
+## 📊 GitHub Stats
+ <table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=NOTSMKAMAL&show_icons=true&theme=transparent"
+        alt="GitHub stats"
+        height="150"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOTSMKAMAL&layout=compact&theme=transparent"
+        alt="Top languages"
+        height="150"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com?user=NOTSMKAMAL&theme=transparent"
+        alt="GitHub streak"
+        height="150"
+      />
+    </td>
+  </tr>
+</table>
+
+---
 
 ---
 
@@ -58,34 +86,6 @@ I am a third-year Computer Science student at UC Riverside with experience in we
 ![Kanban](https://img.shields.io/badge/Kanban-117A65?logoColor=white)
 ---
 
-## 📊 GitHub Stats
- <table align="center">
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=NOTSMKAMAL&show_icons=true&theme=transparent"
-        alt="GitHub stats"
-        height="150"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOTSMKAMAL&layout=compact&theme=transparent"
-        alt="Top languages"
-        height="150"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=NOTSMKAMAL&theme=transparent"
-        alt="GitHub streak"
-        height="150"
-      />
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🔗 Quick Index
 - [Web Projects](#-web-projects)
