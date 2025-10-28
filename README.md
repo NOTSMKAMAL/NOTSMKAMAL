@@ -1,5 +1,5 @@
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
  <table align="center">
   <tr>
     <td>
