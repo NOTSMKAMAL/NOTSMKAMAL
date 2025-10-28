@@ -1,9 +1,4 @@
-<!-- Header / Intro -->
-<div align="center">
 
-# Hi, I'm SM 
-
-</div>
 ## 📊 GitHub Stats
  <table align="center">
   <tr>
@@ -30,14 +25,6 @@
     </td>
   </tr>
 </table>
-
----
-
----
-
-## 🔎 About Me
-
-I am a third-year Computer Science student at UC Riverside with experience in web development, Java application development, program testing, database management, and data structures and algorithms. Through hands-on project work, I’ve developed strong problem-solving abilities, proficiency in designing efficient algorithms, and expertise in implementing interactive user interfaces and data-driven applications. My goal is to apply these skills to impactful projects while continuing to grow professionally as a developer.
 
 ---
 
@@ -86,66 +73,3 @@ I am a third-year Computer Science student at UC Riverside with experience in we
 ![Kanban](https://img.shields.io/badge/Kanban-117A65?logoColor=white)
 ---
 
-
-## 🔗 Quick Index
-- [Web Projects](#-web-projects)
-- [Designs](#-designs)
-- [Connect](#-connect)
-
----
-
-## 💻 Web Projects
-
-### 1) Quant Club Website — ACM@UCR
-- **Repo:** https://github.com/acm-ucr/quant-website  
-- **Stack:** Next.js • TypeScript • Tailwind CSS • React Query • ESLint • Prettier • GitHub Actions • Figma  
-- **About:** Public-facing club site for events, projects, and resources.  
-- **Role:** Frontend Developer.
-
----
-
-### 2) CSE ULA Portal — ACM@UCR
-- **Repo:** https://github.com/acm-ucr/cse-ula  
-- **Stack:** Next.js • TypeScript • Tailwind CSS • React Query • ESLint • Prettier • GitHub Actions • Figma  
-- **About:** Site for CS Undergraduate Learning Assistant info and workflows.  
-- **Role:** Backend Developer.
-
----
-
-### 3) VSA Website — ACM@UCR
-- **Repo:** https://github.com/acm-ucr/vsa-website  
-- **Stack:** Next.js • TypeScript • Tailwind CSS • React Query • ESLint • Prettier • GitHub Actions • Figma  
-- **About:** Vietnamese Student Association site for culture, community, and event outreach.  
-- **Role:** Full-stack Developer.  
-- **Notes:** Repo README covers Node.js setup, environment variables, dev commands, lint/format, and build steps.
-
----
-
-## 🎨 Designs
-
-### Lo-Fi / Hi-Fi App Wireframe Project
-- **Figma:** https://www.figma.com/design/GORI3lXkW2tMYubuweYKgM/Lo-Fi-Wireframe?node-id=2-4&p=f  
-- **Project overview (Canva PDF):**  
-  Group 3 Presentation – InterScholar  
-  https://github.com/user-attachments/files/22996991/Group.3.Presentation.-.InterScholar.1.pdf
-
----
-
-### Fridgy — iOS Fridge & Grocery Tracker
-- **Figma:** https://www.figma.com/design/a4a7lv3nAmWz3nBzsNDJOn/Untitled?node-id=0-1&p=f&t=QwMLuBeQktSDpei7-0  
-- **Repo:** https://github.com/NOTSMKAMAL/FRIDGY-APP  
-- **About:** Mobile app concept to track groceries, reduce waste, and plan shopping.
-
----
-
-## 📬 Connect
-
-- LinkedIn: www.linkedin.com/in/kamalsm
-- Email: smkaamal1005@gmail.com
----
-
-<div align="center">
-
-Thanks for visiting!
-
-</div>
