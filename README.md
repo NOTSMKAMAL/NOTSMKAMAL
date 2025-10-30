@@ -3,11 +3,11 @@
  <table align="center">
   <tr>
     <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=NOTSMKAMAL&show_icons=true&theme=transparent"
-        alt="GitHub stats"
-        height="150"
-      />
+    <img
+  src="https://github-readme-stats.vercel.app/api?username=NOTSMKAMAL&show_icons=true&theme=transparent&hide_rank=true"
+  alt="GitHub stats"
+  height="150"
+/>
     </td>
     <td>
       <img
