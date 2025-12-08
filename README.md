@@ -2,13 +2,13 @@
 
 
 ---
-## 👋 About Me  
+## About Me 
 
 I’m a third-year Computer Science student at UC Riverside with experience in web development, Java application development, program testing, database management, and data structures and algorithms. Through hands-on project work and campus involvement, I’ve built strong problem-solving skills, learned to design efficient algorithms, and enjoy implementing interactive, data-driven applications. My goal is to apply these skills to impactful projects while continuing to grow professionally as a developer.  
 
 ---
 
-### 🧠 Languages  
+### Languages  
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
