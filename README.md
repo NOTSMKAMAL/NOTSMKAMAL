@@ -1,10 +1,6 @@
----
-
 ## 👨‍💻 About Me
 
-I'm a third-year Computer Science student at UC Riverside building production full-stack applications and mobile apps. I've shipped 5+ web applications serving 5,000+ students, developed cross-platform React Native apps, and trained custom ML models for edge deployment. Passionate about creating scalable, user-centered solutions.
-
----
+I'm a senior studying Computer Science with Business Applications at UC Riverside, graduating June 2027. I build production full-stack web and mobile apps: I've shipped 5 web applications used by 5,000+ students at ACM @ UCR, built a cross-platform React Native app, and built an AI soccer predictor that pairs a Dixon-Coles statistical model with Gemini, backtested on 1,526 past matches. I like building software that people actually rely on.
 
 ## 🛠️ Technical Skills
 
